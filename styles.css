@@ -1,0 +1,91 @@
+html {
+    background-color: lightblue;
+}
+
+.biography {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 950px;
+    font-family: 'Noto Serif', serif;
+    font-size: 22px;
+}
+
+.biotext {
+    margin: 10px;
+    width: 400px;
+    height: 465.297px;
+    word-wrap: break-word;
+}
+
+.pictures {
+    width: 950px;
+    margin: auto;
+    margin-top: 10px;
+    height: 800px;
+}
+
+img {
+    width: 400px;
+
+}
+.horse{     border: 5px solid red;
+
+}
+.goldenpig {
+    width: 210px;
+    border: 5px solid red;
+
+}
+
+.policepig {
+    width: 210px;
+        border: 5px solid red;
+}
+
+.boar {
+    width: 275px;
+    border: 5px solid red;
+
+}
+
+.dadpig {
+    width: 270px;
+    border: 5px solid red;
+
+}
+
+.bigpig {
+    width: 275px;
+    border: 5px solid red;
+
+}
+
+.links {
+    text-align: center;
+    width: 950px;
+    margin: auto;
+    margin-top: 10px;
+    height: 100px;
+}
+
+.voiceofanangel {
+    color: black;
+}
+
+div {
+    border: 1px blue solid;
+}
+
+
+
+
+.test {
+    font-size: 50px;
+}
+
+.biopic {
+    width: 400px;
+    margin: 10px;
+
+}
